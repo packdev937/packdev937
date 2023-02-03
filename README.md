@@ -8,5 +8,5 @@
       
 If you want to see how I study and work efficiently, come to my Notion 🤗
 
-Below is the Link :
+It is the Link :
 → https://packdev937.notion.site/Pack-s-Cloud-86b3988f710f4b12a4d370b9964a265c ←
