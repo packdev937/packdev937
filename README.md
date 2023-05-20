@@ -2,6 +2,7 @@
 
 
 <a href="https://sponge-bluebell-e2f.notion.site/Pack-s-Cloud-a9ac50b6ea3a4c50b9d3be2f074c95a0" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
+<a href="https://velog.io/@gundorit" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/packdev937@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
 
 # 🤷‍♂️ Who I am
