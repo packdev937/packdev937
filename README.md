@@ -15,6 +15,7 @@ UMC Soongsil 4th (23.03 ~ 23.08)
 
 # 🚀 Certification
 ![AWS Cloud Practioner](https://github.com/packdev937/packdev937/assets/89628690/a18a2c90-8103-4bde-bf6c-6f7dade7ecb4)
+<img src="https://github.com/packdev937/packdev937/assets/89628690/b91b02ff-dcaa-4f7e-8c60-1385f808df24" width="300">
 
 # 👀 Extra Information
 
