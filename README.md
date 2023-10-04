@@ -12,6 +12,7 @@
 
 # 🏃‍♂️ Activity 
 UMC Soongsil 4th (23.03 ~ 23.08)
+
 GDSC Soongsil (23.09 ~ 24.08)
 
 # 🚀 Certification
