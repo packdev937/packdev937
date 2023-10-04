@@ -12,6 +12,7 @@
 
 # 🏃‍♂️ Activity 
 UMC Soongsil 4th (23.03 ~ 23.08)
+GDSC Soongsil (23.09 ~ 24.08)
 
 # 🚀 Certification
 ![AWS Cloud Practioner](https://github.com/packdev937/packdev937/assets/89628690/a18a2c90-8103-4bde-bf6c-6f7dade7ecb4)
