@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Geonwoo%20Pack&fontSize=70)
 
-
+<a href="https://packdev937.oopy.io/" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/packdev937@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
 
 # 🤷‍♂️ Who I am
