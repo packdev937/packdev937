@@ -2,7 +2,6 @@
 
 
 <a href="https://packdev937.oopy.io/" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
-<a href="https://velog.io/@gundorit" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/packdev937@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
 
 # 🤷‍♂️ Who I am
@@ -13,7 +12,7 @@
 # 🏃‍♂️ Activity 
 UMC Soongsil 4th (23.03 ~ 23.08)
 
-GDSC Soongsil (23.09 ~ 24.08)
+GDSC Soongsil (23.10 ~ 24.08)
 
 # 🚀 Certification
 ![AWS Cloud Practioner](https://github.com/packdev937/packdev937/assets/89628690/a18a2c90-8103-4bde-bf6c-6f7dade7ecb4)
