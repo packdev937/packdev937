@@ -5,7 +5,7 @@
 ---
 
 <div align="left">
-    <h2>👋 Hi, I'm Geonwoo Pack!</h3>
+    <h2>👋 안녕하세요, 백건우입니다! </h3>
     <h3>🌱 Experience</h3>
     <li> UMC SSU 4th (23.03 ~ 23.08)</p>
     <li> Google Developer Student Club Soongsil (23.10 ~ 24.08)</p>
