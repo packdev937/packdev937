@@ -14,7 +14,7 @@
     <li> [2019.03 - ing] Soongsil University Computer Science and Engineering</li>
     <li> [2023.03 - 2023.08] University MakeUs Chellenge Soongsil 4th </li>
     <li> [2023.10 - ing] Google Developer Student Club Soongsil </li>
-    <li> [2024.03 - 2024.06] Korean University Students IT, Management Society KUSITMS </li>
+    <li> [2024.02 - 2024.06] Korean University Students IT, Management Society KUSITMS </li>
 </div>
 <h2>🚀 Certification</h2>
 <div align="left">
