@@ -34,7 +34,8 @@
 <li>
     <img src="https://img.shields.io/badge/Java-FC4C02?style=flat-square&logo=Jakarta&logoColor=white"/></a>
     <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/></a>
-     <img src="https://img.shields.io/badge/SpringSecurity-6DB33F?style=flat-square&logo=SpringSecurity&logoColor=white"/></a>
+    <img src="https://img.shields.io/badge/SpringBatch-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/></a>
+    <img src="https://img.shields.io/badge/SpringSecurity-6DB33F?style=flat-square&logo=SpringSecurity&logoColor=white"/></a>
 </li>
 <li> 
 <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"/></a>
