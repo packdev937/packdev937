@@ -6,8 +6,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=&weight=500&size=23&pause=1000&color=FFFFFF&random=false&width=435&lines=%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94%2C+%EB%B0%B1%EC%97%94%EB%93%9C+%EA%B0%9C%EB%B0%9C%EC%9E%90+%EB%B0%B1%EA%B1%B4%EC%9A%B0%EC%9E%85%EB%8B%88%EB%8B%A4+%F0%9F%91%8B)](https://git.io/typing-svg)
 <h2> 🔗 Link </h2>
 <div>
-    <a href="https://packdev937.oopy.io/" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
-    <img src="https://img.shields.io/badge/packdev937@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
+    <a href="https://packdev937.oopy.io/" target="_blank"><img src="https://img.shields.io/badge/TechBlog-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
+    <img src="https://img.shields.io/badge/Contact-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
 </div>
 <div align="left">
     <h2>🌱 Experience</h2>
