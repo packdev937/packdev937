@@ -23,7 +23,6 @@
     <li> AWS Solution Architect </li>
     <li> SQLD </li>
     <li> TOPCIT 620 </li>
-    <li> OPIC IH </li>
 </div>
 <h2>🛠 Skills</h2>
 <li>
