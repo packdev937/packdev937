@@ -23,6 +23,7 @@
     <li> AWS Solution Architect </li>
     <li> SQLD </li>
     <li> TOPCIT 620 </li>
+    <li> Engineer Information Processing </li>
 </div>
 <h2>🛠 Skills</h2>
 <li>
