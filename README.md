@@ -19,8 +19,8 @@
 </div>
 <h2>🚀 Certification</h2>
 <div align="left">
-    <li> AWS Practitioner </li> 
-    <li> AWS Solution Architect </li>
+    <li> AWS Certified Cloud Practitioner </li> 
+    <li> AWS Certified Solution Architect </li>
     <li> SQLD </li>
     <li> TOPCIT 620 </li>
     <li> Engineer Information Processing </li>
