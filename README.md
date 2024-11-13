@@ -7,7 +7,7 @@
 <h2> Link </h2>
 <div>
     <a href="https://packdev937.oopy.io/" target="_blank"><img src="https://img.shields.io/badge/Blog-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
-    <img src="https://img.shields.io/badge/Contact-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
 </div>
 <div align="left">
     <h2> Profile </h2>
@@ -16,13 +16,16 @@
     <li> [2024.03 - 2024.06] Digital Pharm Backend Engineer, Intern </li>
     <li> [2023.10 - 2024.09] Google Developer Student Club </li>
 </div>
-<h2> Certification</h2>
+<h2> Certification / Awards </h2>
 <div align="left">
     <li> AWS Certified Cloud Practitioner </li> 
     <li> AWS Certified Solution Architect </li>
     <li> SQLD </li>
+    <li> ADsP </li>
     <li> TOPCIT 625 </li>
-    <li> Engineer Information Processing </li>
+    <li> 정보처리기사 </li>
+    <li> 로우코드 공모전 아카데미 상</li>
+    <li> 한국방송광고진흥공사 기업 프로젝트 최우수 상</li>
 </div>
 <h2>Skills</h2>
 
